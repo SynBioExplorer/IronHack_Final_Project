@@ -1,5 +1,5 @@
 
-Analysing water conflict around internation transboundary water basins
+Analysing water conflict around international transboundary water basins
 
 [Felix Meier]
 
