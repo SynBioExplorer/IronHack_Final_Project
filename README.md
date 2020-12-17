@@ -1,4 +1,4 @@
-Ironhack Logo
+
 Analysing water conflict around internation transboundary water basins
 
 [Felix Meier]
@@ -6,15 +6,6 @@ Analysing water conflict around internation transboundary water basins
 [Data Analytics, Berlin & October 2020]
 Content
 
-    Project Description
-    Hypothesis
-    Dataset
-    Cleaning
-    Analysis
-    Conclusion
-    Future Work
-    Organization
-    Links
 
 Project Description
 The project is analysing water conflict events in transboundary water basins over the last 60 years. I tried to find a good predictor for the outcome of a water conflict through different machine learning models. 
